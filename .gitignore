@@ -1,0 +1,13 @@
+/.idea
+/.gradle
+/local.properties
+.DS_Store
+/build
+/app/build
+*.iml
+.gradle/
+/captures/
+/externalNativeBuild
+.cxx/
+*.jks
+google-services.json
